@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pets", "API-Pets\API-Pets.csproj", "{4A72BCDD-56F1-4B4A-BC69-78DE4604C208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{3D7D5191-878E-4473-9417-1986F3BA8B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A72BCDD-56F1-4B4A-BC69-78DE4604C208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A72BCDD-56F1-4B4A-BC69-78DE4604C208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A72BCDD-56F1-4B4A-BC69-78DE4604C208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A72BCDD-56F1-4B4A-BC69-78DE4604C208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7D5191-878E-4473-9417-1986F3BA8B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7D5191-878E-4473-9417-1986F3BA8B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7D5191-878E-4473-9417-1986F3BA8B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7D5191-878E-4473-9417-1986F3BA8B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A20FAF-F220-419E-BE54-41538D79A767}
+	EndGlobalSection
+EndGlobal
